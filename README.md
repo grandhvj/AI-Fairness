@@ -10,20 +10,7 @@ How can we identify and mitigate biases in AI recruitment tools to ensure fair a
 
 By analyzing key demographic variables (e.g., gender, race, and treatment group) and their impact on callback rates, the project highlights potential sources of bias and demonstrates how these biases affect hiring outcomes. Fairness metrics and bias mitigation strategies are also applied to assess and reduce disparities.
 
-## Self Assessment and Reflection
 
-<!-- Edit the following section with your self assessment and reflection -->
-
-### Self Assessment
-<!-- Replace the (...) with your score -->
-
-| Category          | Score    |
-| ----------------- | -------- |
-| **Setup**         | 10 / 10 |
-| **Execution**     | 20 / 20 |
-| **Documentation** | 10 / 10 |
-| **Presentation**  | 30 / 30 |
-| **Total**         | 70 / 70 |
 
 ### Reflection
 <!-- Edit the following section with your reflection .-->
